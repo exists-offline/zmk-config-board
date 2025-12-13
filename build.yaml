@@ -12,3 +12,5 @@ include:
     shield: board_left
   - board: nice_nano@2.0.0
     shield: board_right
+  - board: nice_nano@2.0.0
+    shield: board_dongle
