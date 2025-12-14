@@ -9,8 +9,8 @@
 ---
 include:
   - board: nice_nano@2.0.0
-    shield: board_left nice_view
+    shield: board_left nice_view_adapter nice_view
   - board: nice_nano@2.0.0
-    shield: board_right nice_view
+    shield: board_right nice_view_adapter nice_view
   - board: nice_nano@2.0.0
     shield: board_dongle
