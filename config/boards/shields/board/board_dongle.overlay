@@ -1,1 +1,11 @@
 #include "board.dtsi" // The shared dtsi file is included in the overlay
+
+&kscan0 {
+    status = "disabled";
+};
+
+/ {
+    chosen {
+        /delete-property/ zmk,kscan;
+    };
+};
