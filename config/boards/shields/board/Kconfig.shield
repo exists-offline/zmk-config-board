@@ -3,6 +3,3 @@ config SHIELD_BOARD_LEFT
 
 config SHIELD_BOARD_RIGHT
     def_bool $(shields_list_contains,board_right)
-
-config SHIELD_BOARD_DONGLE
-    def_bool $(shields_list_contains,board_dongle)
