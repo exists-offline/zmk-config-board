@@ -61,9 +61,8 @@
                         <
                         &kp TAB         &kp Q           &kp W           &kp DE_E        &kp R           &kp T                   &kp DE_Z        &kp U           &kp I           &kp O           &kp P           &kp DE_U_UMLAUT
                         &kp DE_PLUS     &bhm LCTRL A    &bhm LGUI S     &bhm LALT D     &bhm LSHIFT F   &kp G                   &kp H           &bhm RSHIFT J   &bhm LALT K     &bhm LGUI L     &bhm RCTRL DE_O_UMLAUT   &kp DE_A_UMLAUT
-                                        &kp DE_Y        &kp X           &kp C           &kp V           &kp B                   &kp N           &kp M           &kp DE_COMMA    &kp DE_PERIOD   &kp DE_MINUS    &kp RCTRL
-                                                                        &kp BSPC        &lt 3 SPACE     &kp SPACE               &kp SPACE       &lt 4 SPACE     &kp BSPC                    
-                        >;
+                        &trans          &kp DE_Y        &kp X           &kp C           &kp V           &kp B                   &kp N           &kp M           &kp DE_COMMA    &kp DE_PERIOD   &kp DE_MINUS    &kp RCTRL &trans
+                                                                        &kp BSPC        &lt 3 SPACE     &kp SPACE               &kp SPACE       &lt 4 SPACE     &kp BSPC        
                 };
 
                 gaming_layer {
@@ -79,7 +78,7 @@
                         <
                         &kp TAB         &kp Q           &kp W           &kp DE_E        &kp R           &kp T                   &kp DE_Z        &kp U           &kp I           &kp O           &kp P           &kp DE_U_UMLAUT
                         &kp LSHIFT      &kp A           &kp S           &kp D           &kp F           &kp G                   &kp H           &kp J           &kp K           &kp L           &kp DE_O_UMLAUT &mt RSHIFT DE_A_UMLAUT
-                                        &kp DE_Y        &kp X           &kp C           &kp V           &kp B                   &kp N           &kp M           &kp DE_COMMA    &kp DE_PERIOD   &kp DE_MINUS   
+                        &trans          &kp DE_Y        &kp X           &kp C           &kp V           &kp B                   &kp N           &kp M           &kp DE_COMMA    &kp DE_PERIOD   &kp DE_MINUS    &trans
                                                                         &kp BSPC        &lt 3 SPACE     &kp SPACE               &kp SPACE       &lt 4 SPACE     &kp BSPC
                         >;
                 };
@@ -97,7 +96,7 @@
                         <
                         &kp ESC         &trans          &kp DE_N1       &kp DE_N2       &kp DE_N3       &kp DE_PERCENT          &kp DE_PIPE     &kp DE_LT       &kp DE_GT       &kp DE_HASH     &kp DE_TILDE    &kp DE_EXCLAMATION
                         &kp DE_CARET    &kp DE_N0       &kp DE_N4       &kp DE_N5       &kp DE_N6       &kp DE_EQUAL            &kp DE_SQT      &kp DE_LPAR     &kp DE_RPAR     &kp DE_LBKT     &kp DE_RBKT     &kp DE_AMPERSAND
-                                        &trans          &kp DE_N7       &kp DE_N8       &kp DE_N9       &trans                  &kp DE_DQT      &kp DE_LBRC     &kp DE_RBRC     &kp DE_SLASH    &kp DE_BSLH     
+                        &trans          &trans          &kp DE_N7       &kp DE_N8       &kp DE_N9       &trans                  &kp DE_DQT      &kp DE_LBRC     &kp DE_RBRC     &kp DE_SLASH    &kp DE_BSLH     &trans
                                                                         &trans          &trans          &trans                  &kp DEL         &trans          &trans
                         >;
                 };
@@ -115,7 +114,7 @@
                         <
                         &trans          &trans          &trans          &trans          &trans          &trans                  &kp C_VOL_UP    &trans          &kp UP          &trans          &trans          &kp DE_SZ
                         &trans          &trans          &trans          &trans          &trans          &trans                  &kp C_PP        &kp LEFT        &kp DOWN        &kp RIGHT       &trans          &trans
-                                        &bt BT_CLR      &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3            &kp C_VOL_DN    &kp LC(LS(TAB)) &kp LC(TAB)     &trans          &trans
+                        &trans          &bt BT_CLR      &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3            &kp C_VOL_DN    &kp LC(LS(TAB)) &kp LC(TAB)     &trans          &trans          &trans
                                                                         &trans          &trans          &kp DEL                 &trans          &trans          &trans
                         >;
                 };
@@ -133,7 +132,7 @@
                         <
                         &trans          &kp F1          &kp F2          &kp F3          &kp F4          &kp F5                  &kp F6          &kp F7          &kp F8          &kp F9          &kp F10         &kp F11
                         &trans          &trans          &trans          &trans          &trans          &trans                  &trans          &trans          &trans          &trans          &trans          &kp F12
-                                        &trans          &trans          &trans          &trans          &trans                  &trans          &trans          &trans          &trans          &trans         
+                        &trans          &trans          &trans          &trans          &trans          &trans                  &trans          &trans          &trans          &trans          &trans          &trans
                                                                         &trans          &trans          &trans                  &trans          &trans          &trans
                         >;
                 };
