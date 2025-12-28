@@ -62,8 +62,8 @@
                         <
                         &kp TAB         &kp Q           &kp W           &kp DE_E        &kp R           &kp T                   &kp DE_Z        &kp U           &kp I           &kp O           &kp P           &kp DE_U_UMLAUT
                         &kp DE_PLUS     &bhm LCTRL A    &bhm LGUI S     &bhm LALT D     &bhm LSHIFT F   &kp G                   &kp H           &bhm RSHIFT J   &bhm LALT K     &bhm LGUI L     &bhm RCTRL DE_O_UMLAUT   &kp DE_A_UMLAUT
-                        &trans          &kp DE_Y        &kp X           &kp C           &kp V           &kp B                   &kp N           &kp M           &kp DE_COMMA    &kp DE_PERIOD   &kp DE_MINUS    &kp RCTRL &trans
-                                                                        &kp BSPC        &lt 3 SPACE     &kp SPACE               &kp SPACE       &lt 4 SPACE     &kp BSPC        
+                        &trans          &kp DE_Y        &kp X           &kp C           &kp V           &kp B                   &kp N           &kp M           &kp DE_COMMA    &kp DE_PERIOD   &kp DE_MINUS    &trans
+                                                                        &kp BSPC        &lt 2 SPACE     &kp SPACE               &kp SPACE       &lt 3 SPACE     &kp BSPC        
                         >;
                 };
 
@@ -81,7 +81,7 @@
                         &kp TAB         &kp Q           &kp W           &kp DE_E        &kp R           &kp T                   &kp DE_Z        &kp U           &kp I           &kp O           &kp P           &kp DE_U_UMLAUT
                         &kp LSHIFT      &kp A           &kp S           &kp D           &kp F           &kp G                   &kp H           &kp J           &kp K           &kp L           &kp DE_O_UMLAUT &mt RSHIFT DE_A_UMLAUT
                         &trans          &kp DE_Y        &kp X           &kp C           &kp V           &kp B                   &kp N           &kp M           &kp DE_COMMA    &kp DE_PERIOD   &kp DE_MINUS    &trans
-                                                                        &kp BSPC        &lt 3 SPACE     &kp SPACE               &kp SPACE       &lt 4 SPACE     &kp BSPC
+                                                                        &kp BSPC        &lt 2 SPACE     &kp SPACE               &kp SPACE       &lt 3 SPACE     &kp BSPC
                         >;
                 };
 
