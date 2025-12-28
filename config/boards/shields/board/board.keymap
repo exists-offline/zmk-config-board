@@ -64,6 +64,7 @@
                         &kp DE_PLUS     &bhm LCTRL A    &bhm LGUI S     &bhm LALT D     &bhm LSHIFT F   &kp G                   &kp H           &bhm RSHIFT J   &bhm LALT K     &bhm LGUI L     &bhm RCTRL DE_O_UMLAUT   &kp DE_A_UMLAUT
                         &trans          &kp DE_Y        &kp X           &kp C           &kp V           &kp B                   &kp N           &kp M           &kp DE_COMMA    &kp DE_PERIOD   &kp DE_MINUS    &kp RCTRL &trans
                                                                         &kp BSPC        &lt 3 SPACE     &kp SPACE               &kp SPACE       &lt 4 SPACE     &kp BSPC        
+                        >;
                 };
 
                 gaming_layer {
