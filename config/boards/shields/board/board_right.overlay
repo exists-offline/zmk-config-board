@@ -1,5 +1,11 @@
 #include "board.dtsi" // The shared dtsi file is included in the overlay
 
+/ {
+    chosen {
+        zmk,kscan = &kscan0;
+    };
+};
+
 // Label of the kscan node in the dtsi
 &kscan0 {
     col-gpios
