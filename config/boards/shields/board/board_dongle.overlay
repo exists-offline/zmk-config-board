@@ -14,3 +14,8 @@
         events = <0>;
     };
 };
+
+/* IMPORTANT: prevent validation of the gpio-matrix node */
+&kscan0 {
+    status = "disabled";
+};
