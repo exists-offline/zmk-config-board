@@ -9,7 +9,7 @@
 ---
 include:
   - board: nice_nano@2.0.0
-    shield: board_dongle
+    shield: board_dongle nice_view_adapter nice_view
   - board: nice_nano@2.0.0
     shield: board_left nice_view_adapter nice_view
   - board: nice_nano@2.0.0
