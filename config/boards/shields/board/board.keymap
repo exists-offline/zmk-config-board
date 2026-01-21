@@ -105,9 +105,9 @@
 
                 arrow_layer {
                         bindings =
-                            //  prebt   _       _       _       _       _                                                       v_up    _       up      _       _       ß
+                            //  _       _       _       _       _       _                                                       v_up    _       up      _       _       ß
  
-                            //  preusb  _       _       _       _       _                                                       play    left    down    right   _       _
+                            //  _       insert  capslock_       _       _                                                       play    left    down    right   insert  _
                         
                             //          bt c    bt 1    bt 2    bt 3    bt 4                                                    v_down  p_tab   n_tab   _       _       
                             
@@ -115,7 +115,7 @@
 
                         <
                         &trans          &trans          &trans          &trans          &trans          &trans                  &kp C_VOL_UP    &trans          &kp UP          &trans          &trans          &kp DE_SZ
-                        &trans          &trans          &trans          &trans          &trans          &trans                  &kp C_PP        &kp LEFT        &kp DOWN        &kp RIGHT       &trans          &trans
+                        &trans          &INSERT         &CAPS           &trans          &trans          &trans                  &kp C_PP        &kp LEFT        &kp DOWN        &kp RIGHT       &INSERT         &trans
                         &trans          &bt BT_CLR      &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3            &kp C_VOL_DN    &kp LC(LS(TAB)) &kp LC(TAB)     &trans          &trans          &trans
                                                                         &trans          &trans          &kp DEL                 &trans          &trans          &trans
                         >;
